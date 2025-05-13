@@ -1,0 +1,5 @@
+1. download and install nodejs
+2. type in terminal npm install expo-cli --global to install 
+to install expo cli
+3. create application npx create-expo-app@latest --template 
+{template to choose blank }
